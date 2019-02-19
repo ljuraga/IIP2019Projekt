@@ -1,0 +1,50 @@
+.cart-style {
+    color: red;
+}
+.trans-style {
+    color: blue;
+}
+.ucp-style {
+    color: green;
+}
+.login-style {
+    color: red;
+}
+.register-style {
+    color: red;
+}
+.layout-style {
+    /*color: green;*/
+    background-color: hsl(214, 35%, 21%);
+    padding: 0;
+}
+.layoutMenu-style {
+    background-color: #333333;
+    position: relative;
+    margin: auto;
+    /*display: table;*/
+}
+.layoutMenuLogo-style {
+    position: absolute;
+    left: 0;
+    /*display: table-cell;*/
+    /*vertical-align: middle;*/
+}
+.layoutMenuButtons-style {
+    position: absolute;
+    right: 0;
+    /*display: table-cell;*/
+    /*vertical-align: middle;*/
+}
+.layoutBanner-style {
+    /*background-image: url(https://previews.123rf.com/images/matsiash/matsiash1009/matsiash100900002/7754672-football-banner-.jpg);*/
+    background-image: url(banner.jpg);
+    background-size: 100% 100%;
+}
+.layoutGamesList-style {
+    background-color: black;
+    --lumo-base-color: black;
+}
+#overlay {
+    --lumo-base-color: black;
+}
